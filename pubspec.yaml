@@ -1,0 +1,63 @@
+name: atoz
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.17.5 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter: 
+    sdk: flutter
+  flutter_map: ^0.13.1
+  latlong2: ^0.8.1
+  country_picker: ^2.0.15
+  flutter_svg: ^1.0.0
+  favorite_button: ^0.0.4
+  comment_box: 0.0.17
+  get_storage: 2.0.3
+  shared_preferences: 2.0.15
+  country_code_picker: 2.0.2
+  flutter_lints: 2.0.1
+  image_picker:
+  flutter_speed_dial: 6.0.0
+
+  flutter_rating_bar: 4.0.1
+
+
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+  assets:
+   - assets/images/
+   - assets/images/photo-1507525428034-b723cf961d3e.jpg
+   - assets/images/Switzerland-Oeschinnensee-lake-Berner-Oberland.jpg
+   - assets/images/Egypt-desert.jpg
+   - assets/images/greece.jpg
+   - assets/images/maldives.jpg
+   - assets/images/8219645_messages_paper_airplane_aeroplane_memo_icon.png
+   - assets/images/103733_plane_transportation_icon.png
+   - assets/images/four-seasons-resort-orlando.jpg
+   - assets/images/airplane-plane-flight-900.jpg
+   - assets/images/logo1.jpg
+   - assets/images/welcome1.jpg
+   - assets/images/welcome.jpg
+   - assets/images/4308424_australia_australian_country_independence_location_icon.png
+   - assets/images/8340043_tourist_girl_icon.png
+   - assets/images/diverxo.jpg
+   - assets/images/Hotel.jpg
+   - assets/images/person.jpg
+   - assets/images/-taxi.jpg
+   - assets/images/taxi.jpg
+   - assets/images/logo.jpg
+
+  fonts:
+    - family: Comfortaa
+      fonts:
+              - asset: assets/fonts/Comfortaa-VariableFont_wght.ttf
+
+
